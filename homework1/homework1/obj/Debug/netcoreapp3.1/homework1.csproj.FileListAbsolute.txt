@@ -1,0 +1,15 @@
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.exe
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.deps.json
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.runtimeconfig.json
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.runtimeconfig.dev.json
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.dll
+D:\C#项目\homework1\homework1\bin\Debug\netcoreapp3.1\homework1.pdb
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.csprojAssemblyReference.cache
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.Form1.resources
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.csproj.GenerateResource.cache
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.AssemblyInfoInputs.cache
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.AssemblyInfo.cs
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.csproj.CoreCompileInputs.cache
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.dll
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.pdb
+D:\C#项目\homework1\homework1\obj\Debug\netcoreapp3.1\homework1.genruntimeconfig.cache

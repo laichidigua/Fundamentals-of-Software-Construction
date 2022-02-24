@@ -1,0 +1,7 @@
+D:\C#项目\homework1\cmd_caculactor\bin\Debug\cmd_caculactor.exe.config
+D:\C#项目\homework1\cmd_caculactor\bin\Debug\cmd_caculactor.exe
+D:\C#项目\homework1\cmd_caculactor\bin\Debug\cmd_caculactor.pdb
+D:\C#项目\homework1\cmd_caculactor\obj\Debug\cmd_caculactor.csprojAssemblyReference.cache
+D:\C#项目\homework1\cmd_caculactor\obj\Debug\cmd_caculactor.csproj.CoreCompileInputs.cache
+D:\C#项目\homework1\cmd_caculactor\obj\Debug\cmd_caculactor.exe
+D:\C#项目\homework1\cmd_caculactor\obj\Debug\cmd_caculactor.pdb
