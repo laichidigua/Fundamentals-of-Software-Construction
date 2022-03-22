@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace OrderTest
 {
     //订单类，编号，客户，总金额
-    class Order
+    class Order:IComparable<Order>
     {
         public static int No = 0;
         public int Number { set; get; }
-        private List<OrderDetails> goods;
+        public List<OrderDetails> goods;
         public Client client { set; get; }
         public double sum_money { set; get; }
         public Order()
@@ -28,6 +28,20 @@ namespace OrderTest
             sum_money = 0.0;
             goods = new List<OrderDetails>();
         }
+        //定义排序准则
+        public int CompareTo(Order other) {
+            if (this.sum_money < other.sum_money)
+            {
+                return -1;
+            }
+            else if (this.sum_money == other.sum_money)
+            {
+                return 0;
+            }
+            else {
+                return 1;
+            }
+        }
         //更新总金额
         public void refresh()
         {
@@ -38,10 +52,10 @@ namespace OrderTest
                 this.sum_money += orderDetails.price;
             }
         }
-        //更新客户信息，传入订单的客户更新到调用订单中
-        public void update(Order order)
+        //更新客户信息，更改电话
+        public void update(int newphone)
         {
-            this.client = order.client;
+            this.client.phone = newphone;
         }
         //添加商品，如果已有则改变数量即可，没有则新加，并更新总金额和条目金额
         public void add(Goods goods, int number = 1)
@@ -122,7 +136,7 @@ namespace OrderTest
         public override bool Equals(object obj)
         {
             Order other = obj as Order;
-            return this.Number == other.Number;
+            return this.client.name == other.client.name;
         }
         //对应的订单号为哈希吗来源
         public override int GetHashCode()
