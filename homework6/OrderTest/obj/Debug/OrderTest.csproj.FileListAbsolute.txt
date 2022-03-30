@@ -1,0 +1,7 @@
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\bin\Debug\OrderTest.exe.config
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\bin\Debug\OrderTest.exe
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\bin\Debug\OrderTest.pdb
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\obj\Debug\OrderTest.csprojAssemblyReference.cache
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\obj\Debug\OrderTest.csproj.CoreCompileInputs.cache
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\obj\Debug\OrderTest.exe
+D:\2 git本地仓库\软件构造基础\Fundamentals-of-Software-Construction\homework5\OrderTest\obj\Debug\OrderTest.pdb
